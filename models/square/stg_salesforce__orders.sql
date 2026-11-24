@@ -7,3 +7,4 @@ SELECT
     amount AS order_amount
 
 FROM tacos.raw.orders
+
